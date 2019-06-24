@@ -1,0 +1,7 @@
+<nav>
+	
+	<ul id="nav" class="nav dropdown navigation_bar"><li style="font-style:bold" class="top " id="mod_menu_no_1"><a href="home.php" class="top_link" id="id_home"><span>HOME</span></a></li><li style="font-style:bold" class="top " id="mod_menu_no_2"><a href="facility.php" class="top_link" id="id_sport_facilities"><span>SPORT FACILITIES</span></a></li><li style="font-style:bold" class="top " id="mod_menu_no_3"><a href="training.php" class="top_link" id="id_trainings"><span>TRAININGS</span></a></li><li style="font-style:bold" class="top " id="mod_menu_no_4"><a href="members.php" class="top_link" id="id_members"><span>MEMBERS</span></a></li><li style="font-style:bold" class="top " id="mod_menu_no_5"><a href="events.php" class="top_link" id="id_events"><span>EVENTS</span></a></li><li style="font-style:bold" class="top " id="mod_menu_no_6"><a href="booking.php" class="top_link" id="id_booking"><span>BOOKING</span></a></li><li style="font-style:bold" class="top " id="mod_menu_no_7"><a href="contact.php" class="top_link" id="id_contact_us"><span>CONTACT US</span></a></li> <li style="font-style:bold" class="top " id="mod_menu_no_7">  
+    <a href="userLogin.php" class="top_link" id="id_contact_us"><span>LOGIN</span></a>
+  </li></ul><a target="_blank" href="https://www.facebook.com/BullsIndoorSportsHall">
+<img src="template/bulls_club/images/fb.png" style="height:20px;width:20px;" target="_blank"/>
+</a></nav>
